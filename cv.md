@@ -1,5 +1,7 @@
 # Andrzej Puzyński
 
+<img src="https://andrzejpuzynski.github.io/images/andrzej.jpg" width="250" height="250" alt="My Photo">
+
 ## CONTACT INFO
 
 > * E-mail: andrzejpuzynski@tlen.pl, andrzejpuzynski@gmail.com
