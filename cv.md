@@ -30,4 +30,10 @@ Also it would be awesome if you add links to source code)*
 > *(including courses, seminars, lectures, online learning)*
 
 ## ENGLISH
-> *(elaborate on what kind of practice you had, if any, how long it lasted and so on)*
+
+**Level: A2-B1**
+
+I listen to BBC radio every day where possible.
+Two years ago I started learning front-end and since then I have often read texts in this language.
+Last year, for six months, I attended meetings with a native speaker ([Talkersi School](https://talkersi.pl/)) to improve my conversation skills.
+I am currently improving my skills in the online [e-tutor](https://www.etutor.pl/) course.
