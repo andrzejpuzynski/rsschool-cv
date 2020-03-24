@@ -29,7 +29,11 @@ Also it would be awesome if you add links to source code)*
 
 ## EDUCATION
 
-> *(including courses, seminars, lectures, online learning)*
+- **IT Engineer** at University of Technology in Szczecin (20 years ago I received a bachelor's degree, but my professional career went in a different direction)
+- **Learn Git**, **Learn the Command Line**, **Introduction to HTML**, **Learn CSS**, **Introduction to JavaScript** - online courses from the site [Codecademy](https://www.codecademy.com/catalog/subject/all) (in the last 2 years)
+- **Junior Front-End Developer** course at [infoShare Academy](https://infoshareacademy.com/) (2017 - 2018)
+- **Mastering Markdown**, **Command Line Power User**, **What The Flexbox?!**, **CSS Grid**, **React For Beginners** - online courses from the site [WesBos](https://wesbos.com/courses/) (in the last 2 years)
+
 
 ## ENGLISH
 
