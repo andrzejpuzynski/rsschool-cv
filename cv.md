@@ -15,7 +15,11 @@ learning new things from everywhere etc.).*
 
 ## SKILLS
 
-> *(e.g. programming languages, frameworks, methodologies, version control, tools etc.)*
+- GIT
+- HTML5
+- CSS3
+- Java Script
+- React
 
 ## CODE EXAMPLES 
 
