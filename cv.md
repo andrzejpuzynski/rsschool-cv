@@ -9,9 +9,15 @@
 > * My [LinkedIn](https://www.linkedin.com/in/andrzejpuzynski/?originalSubdomain=pl) profile.
 
 ## SUMMARY
-> *(your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).*
+
+Three years ago I signed up for the Junior Front-End Developer course. I was driven by a desire to develop professionally and change the job of a graphic designer for a www programmer. I was very curious how I would feel in this area.
+
+A lot of new knowledge acquired during the course worked well for me. I decided to continue my change.
+
+After the course, I improved my English for six months, practiced JavaScript Codewars everyday and practically created websites.
+At the same time, there were a lot of jobs in my current job graphic and earning opportunities, which reduced my involvement in the programming field.
+
+I welcomed the RS School course with the joy of returning to the change. My goal is to get a job as a Front-End Developer and to develop in this field while working.
 
 ## SKILLS
 
