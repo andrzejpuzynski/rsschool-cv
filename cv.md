@@ -23,7 +23,15 @@ learning new things from everywhere etc.).*
 
 ## CODE EXAMPLES 
 
-> *(LATEST)*
+[My Portfolio](https://github.com/andrzejpuzynski/andrzejpuzynski.github.io)
+
+[JQuery game](https://github.com/andrzejpuzynski/jQuery-game)
+
+[Textprocessor](https://github.com/andrzejpuzynski/textprocessor4tipp10)
+
+[Szortal - tech site (draft)](https://codepen.io/andrzejpuzynski/pen/OqdgjO)
+
+[Szortal - tech site](https://github.com/andrzejpuzynski/szortal-tech)
 
 ## EXPERIENCE
 
