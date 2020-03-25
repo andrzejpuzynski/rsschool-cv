@@ -35,9 +35,9 @@ learning new things from everywhere etc.).*
 
 ## EXPERIENCE
 
-> *(for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)*
+* During the Junior Front-End Developer course at InfoShare, for half a year I did practical exercises in a group of 4 (Scrum). We created a single page project, first in html-css-js technology, then its version in React.
+
+* My recent experience is independent work at home.
 
 ## EDUCATION
 
