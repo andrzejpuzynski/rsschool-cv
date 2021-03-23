@@ -29,17 +29,12 @@ I welcomed the RS School course with the joy of returning to the change. My goal
 
 ## CODE EXAMPLES 
 
-> [My Portfolio (HTML, CSS)](https://github.com/andrzejpuzynski/andrzejpuzynski.github.io)
-
-> [Game (JQuery)](https://github.com/andrzejpuzynski/jQuery-game)
-
-> [Szortal - tech site (React)](https://github.com/andrzejpuzynski/szortal-tech)
-
-> [Sudoku (JS)](https://github.com/andrzejpuzynski/sudoku/blob/master/src/index.js)
-
-> [Virtual Keyboard (HTML, CSS, JS)](https://github.com/andrzejpuzynski/virtual-keyboard)
-
-> [Songbird (React)](https://github.com/andrzejpuzynski/songbird)
+> * [My Portfolio (HTML, CSS)](https://github.com/andrzejpuzynski/andrzejpuzynski.github.io)
+> * [Game (JQuery)](https://github.com/andrzejpuzynski/jQuery-game)
+> * [Szortal - tech site (React)](https://github.com/andrzejpuzynski/szortal-tech)
+> * [Sudoku (JS)](https://github.com/andrzejpuzynski/sudoku/blob/master/src/index.js)
+> * [Virtual Keyboard (HTML, CSS, JS)](https://github.com/andrzejpuzynski/virtual-keyboard)
+> * [Songbird (React)](https://github.com/andrzejpuzynski/songbird)
 
 ## EXPERIENCE
 
@@ -54,27 +49,23 @@ I welcomed the RS School course with the joy of returning to the change. My goal
 
 
 ## EDUCATION ONLINE
-**Online courses from the site [Codecademy](https://www.codecademy.com/catalog/subject/all)** (2017-2020)
- - *Learn Git*
- - *Learn the Command Line*
- - *Introduction to HTML*
- - *Learn CSS*
- - *Introduction to JavaScript*
+**[Codecademy](https://www.codecademy.com/catalog/subject/all)** (2017-2020)
+> - *Learn Git*
+> - *Learn the Command Line*
+> - *Introduction to HTML*
+> - *Learn CSS*
+> - *Introduction to JavaScript*
 
-**Online courses from the site [WesBos](https://wesbos.com/courses)** (2018-2019)
- - *Mastering Markdown*
- - *Command Line Power User*
- - *What The Flexbox?!*
- - *CSS Grid*
- - *React For Beginners*
+**[WesBos](https://wesbos.com/courses)** (2018-2019)
+> - *Mastering Markdown*
+> - *Command Line Power User*
+> - *What The Flexbox?!*
+> - *CSS Grid*
+> - *React For Beginners*
 
-**THE ROLLING SCOPES POLAND (JavScript)**
- - online course at The Rolling Scopes School (2020)
- - [Certificate of Completion](https://app.rs.school/certificate/q47mw48c)
-
-**RSS REACT 2020 Q3 (JavaScript)**
- - online course at The Rolling Scopes School (2020)
- - [Certificate of Completion](https://app.rs.school/certificate/cjsta15o)
+**THE ROLLING SCOPES SCHOOL**
+> - **THE ROLLING SCOPES POLAND (JavScript)** [Certificate of Completion](https://app.rs.school/certificate/q47mw48c)
+> - **RSS REACT 2020 Q3 (JavaScript)** [Certificate of Completion](https://app.rs.school/certificate/cjsta15o)
 
 ## ENGLISH
 
