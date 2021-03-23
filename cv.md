@@ -46,12 +46,29 @@ I welcomed the RS School course with the joy of returning to the change. My goal
 * My recent experience is independent work at home.
 
 ## EDUCATION
-
 - **IT Engineer** at University of Technology in Szczecin (20 years ago I received a bachelor's degree, but my professional career went in a different direction)
-- **Learn Git**, **Learn the Command Line**, **Introduction to HTML**, **Learn CSS**, **Introduction to JavaScript** - online courses from the site [Codecademy](https://www.codecademy.com/catalog/subject/all) (in the last 2 years)
 - **Junior Front-End Developer** course at [infoShare Academy](https://infoshareacademy.com/) (2017 - 2018)
-- **Mastering Markdown**, **Command Line Power User**, **What The Flexbox?!**, **CSS Grid**, **React For Beginners** - online courses from the site [WesBos](https://wesbos.com/courses/) (in the last 2 years)
 
+
+## EDUCATION ONLINE
+- **Online courses from the site [Codecademy](https://www.codecademy.com/catalog/subject/all)** (2017-2020)
+  - *Learn Git*
+  - *Learn the Command Line*
+  - *Introduction to HTML*
+  - *Learn CSS*
+  - *Introduction to JavaScript* 
+- **Online courses from the site [WesBos](https://wesbos.com/courses)** (2018-2019)
+  - *Mastering Markdown*
+  - *Command Line Power User*
+  - *What The Flexbox?!*
+  - *CSS Grid*
+  - *React For Beginners*
+- **THE ROLLING SCOPES POLAND (JavScript)**
+  - online course at The Rolling Scopes School (2020)
+  - [Certificate of Completion](https://app.rs.school/certificate/q47mw48c)
+- **RSS REACT 2020 Q3 (JavaScript)**
+  - online course at The Rolling Scopes School (2020)
+  - [Certificate of Completion](https://app.rs.school/certificate/cjsta15o)
 
 ## ENGLISH
 
