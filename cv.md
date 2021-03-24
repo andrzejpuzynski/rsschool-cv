@@ -10,14 +10,10 @@
 
 ## SUMMARY
 
-Three years ago I signed up for the Junior Front-End Developer course. I was driven by a desire to develop professionally and change the job of a graphic designer for a www programmer. I was very curious how I would feel in this area.
+Three years ago I completed my first Junior Front-End Developer course. I was very curious how I would feel in this new area.
+For the next year, I was perfecting new technologies learned during the course. During this time, I was also improving my English.
 
-A lot of new knowledge acquired during the course worked well for me. I decided to continue my change.
-
-After the course, I improved my English for six months, practiced JavaScript Codewars everyday and practically created websites.
-At the same time, there were a lot of jobs in my current job graphic and earning opportunities, which reduced my involvement in the programming field.
-
-I welcomed the RS School course with the joy of returning to the change. My goal is to get a job as a Front-End Developer and to develop in this field while working.
+2020 was a time to refresh knowledge and improve skills at RS School. At that time, I completed the English version of the course. I also decided to take part in the Belarusian version, where I performed a team task. It was a very good experience in the field of language communication with the Russian-speaking team and in the area of working on the RS School application.
 
 ## SKILLS
 
@@ -40,7 +36,9 @@ I welcomed the RS School course with the joy of returning to the change. My goal
 
 * During the Junior Front-End Developer course at InfoShare, for half a year I did practical exercises in a group of 4 (Scrum). We created a single page project, first in html-css-js technology, then its version in React.
 
-* My recent experience is independent work at home.
+* In 2020, I worked in a group of 5 while participating in the React course at Rolling Scopes School (Belarus version). Our task was to work on the new version of the "Schedule" module in the RS School application. The task was completed and presented.
+
+* Independent work at home.
 
 ## EDUCATION
 - **IT Engineer** at University of Technology in Szczecin (20 years ago I received a bachelor's degree, but my professional career went in a different direction)
@@ -70,8 +68,4 @@ I welcomed the RS School course with the joy of returning to the change. My goal
 ## ENGLISH
 
 **Level: A2-B1**
-
-I listen to BBC radio every day where possible.
-Two years ago I started learning front-end and since then I have often read texts in this language.
-Last year, for six months, I attended meetings with a native speaker ([Talkersi School](https://talkersi.pl/)) to improve my conversation skills.
 I am currently improving my skills in the online [e-tutor](https://www.etutor.pl/) course.
